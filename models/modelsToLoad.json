@@ -1,0 +1,110 @@
+{
+    "title" : "Fotogrametria, Alumnes 2n de DAW",
+    "collection" : [
+        [
+            "Taza",
+            "Abdelaziz El Ouastani",
+            "models/taza/imgs",
+            "models/taza/taza.glb",
+            "Taza artesanal de cerámica hecha a mano."
+        ],
+        [
+            "Far",
+            "Alejandra Català Stillman",
+            "models/far/imgs",
+            "models/far/far.glb",
+            "Llum antiga en forma de far."
+        ],
+        [
+            "Guardiola",
+            "Cipriano Muñoz Fernandez",
+            "models/hucha/imgs",
+            "models/hucha/hucha.glb",
+            "Una guardiola pels estalvis de color vermell."
+        ],
+        [
+            "El cerdito valiente",
+            "Franklin Milton Apolo Rivera",
+            "models/cerdito/imgs",
+            "models/cerdito/cerdito.glb",
+            "Este certido valiente libró muchas batallas contra los jajamarus según relata la historia de hace millones de años, si lo tienes te dará suerte en el futuro."
+        ],
+        [
+            "Rey Misterio 619",
+            "Gary Cantuche",
+            "models/rey/imgs",
+            "models/rey/rey.glb",
+            "El \"Rey Misterio\" és un personatge d'una sèrie bastant coneguda, WWE. Ell era conegut per les seves grans acrobàcies. Era baixet, però un gran lluitador."
+        ],
+        [
+            "Copa de Fútbol",
+            "Marc López",
+            "models/copafutbol/imgs",
+            "models/copafutbol/copafutbol.glb",
+            "Aquesta copa la vaig guanyar juntament amb l'equip del qual jo formava part, vam guanyar la lliga de pallissa. 2006/7."
+        ],
+        [
+            "Gerra",
+            "Miquel Oliver",
+            "models/gerra/imgs",
+            "models/gerra/gerra.glb",
+            "Gerra de decoració de tamany mitjà."
+        ],
+        [
+            "Mercurio 155",
+            "Miquel Riera",
+            "models/moto/imgs",
+            "models/moto/moto.glb",
+            "Bultaco Mercurio del 63. Moto que portava el meu avi de Mercadal a Maó per anar a treballar cada dia de la setmana. Restaurada recentment amb el resultat observat."
+        ],
+        [
+            "Calavera",
+            "Nacho Gómez",
+            "models/calavera/imgs",
+            "models/calavera/calavera.glb",
+            "Espelma amb forma de calavera."
+        ],
+        [
+            "Espeon",
+            "Neus Roman",
+            "models/espeon/imgs",
+            "models/espeon/espeon.glb",
+            "Figura 3D de peluix de Espeon."
+        ],
+        [
+            "Bubu",
+            "Silvia Fernandez Febrer",
+            "models/osito/imgs",
+            "models/osito/osito.glb",
+            "Osito al cual, la clase, le puso el nombre de Bubu."
+        ],
+        [
+            "Nutria de madera",
+            "Heiber Stiven Miranda Asprilla",
+            "models/nutripuntos/imgs",
+            "models/nutripuntos/nutripuntos.glb",
+            "Pequeña nutria de madera en un base vertical."
+        ],
+        [
+            "PrograMaMe",
+            "Lluís Cabrisas",
+            "models/cono/imgs",
+            "models/cono/cono.glb",
+            "Aquest cono va ser guanyat a PrograMaMe Regional 2019."
+        ],
+        [
+            "Elefant",
+            "Marc Massip Mesquida",
+            "models/elefant/imgs",
+            "models/elefant/elefant.glb",
+            "Figura de porcellana d'elefant."
+        ],
+        [
+            "Rupia",
+            "Joel",
+            "models/rupia/imgs",
+            "models/rupia/rupia.glb",
+            "És una moneda de canvi d’un joc molt conegu: The Legend of Zelda."
+        ]
+    ]
+}

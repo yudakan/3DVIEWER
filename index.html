@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>3D GALLERY</title>
+    <meta name="author" content="yka yudakan">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon.png"/>
+    <link rel="stylesheet" href="css/main.css" />
+</head>
+<body>
+    <div id="loading">
+        <div id="loading-content">
+            <div class="loader">
+                <span></span><span></span><span></span><span></span>
+            </div>
+            <br /><br /><br /><br />
+            <span>Loading data...</span>
+        </div>
+        <div id="tutorial" style="display: none;">
+            <h3>3D Model Data Set Needed</h3>
+            <p>Instructions... bla bla... owo</p>
+        </div>
+    </div>
+
+    <header class="container">
+        <h1>3D Gallery Viewer</h1>
+        <h3 id="title"></h3>
+    </header>
+
+    <div id="the-grid" class="container"></div>
+
+    <div id="viewer" class="viewer" style="display: none;">
+        <div id="inner-viewer" class="card-inner"></div>
+        <div id="footer-viewer" class="card-footer"></div>
+    </div>
+    <div id="resume" style="display: none; transform: translate(0px, 300px);"></div>
+
+    <div id="close-button" class="controls cross" style="display: none;"></div>
+    <div id="arrow-left-button" class="controls arrow-left" style="display: none;"></div>
+    <div id="arrow-right-button" class="controls arrow-right" style="display: none;"></div>
+
+    <footer>
+        <span>3D GALLERY</span>
+        <span>Designed by Nayra Mesquida Massip | <a href="https://yudakan.com" target="_blank">yudakan.com</a></span>
+    </footer>
+
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
+    <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
+    <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.1.3/webcomponents-loader.js"></script>
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://unpkg.com/resize-observer-polyfill@1.5.1/dist/ResizeObserver.js"></script>
+    
+    <script src="js/main.js"></script>
+</body>
+</html>
